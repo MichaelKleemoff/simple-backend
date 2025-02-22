@@ -8,5 +8,11 @@
   "keywords": [],
   "author": "Michael Kleemoff",
   "license": "ISC",
-  "description": "Create a simple backend server with a GET and a POST route."
+  "description": "Create a simple backend server with a GET and a POST route.",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "pg-promise": "^11.10.2"
+  }
 }
