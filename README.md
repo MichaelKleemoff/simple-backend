@@ -212,10 +212,10 @@ Your task is to create a simple backend server with a GET and a POST route. You 
 
 **<small>Evaluation Criteria</small>**
 
-- **<small style="font-size: 13px">Functionality:</small>** The backend runs and the routes work as expected.
+- **<small>Functionality:</small>** The backend runs and the routes work as expected.
 
-- **<small style="font-size: 13px">Understanding:</small>** Clear and correct answers to checkpoint questions.
+- **<small>Understanding:</small>** Clear and correct answers to checkpoint questions.
 
-- **<small style="font-size: 13px">Code Quality:</small>** Clean and organized code with proper error handling.
+- **<small>Code Quality:</small>** Clean and organized code with proper error handling.
 
 Good luck, and happy coding!
