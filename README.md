@@ -39,11 +39,11 @@ Your task is to create a simple backend server with a GET and a POST route. You 
 
 **<small>Checkpoint 1: Understanding Project Setup</small>**
 
-- What is the purpose of npm init -y?
+- What is the purpose of `npm init -y`?
 
-- Why do we need express, cors, pg-promise, and dotenv?
+- Why do we need `express`, `cors`, `pg-promise`, and `dotenv`?
 
-- What does the .env file do?
+- What does the `.env` file do?
 
 ---
 
